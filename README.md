@@ -87,14 +87,14 @@ See them live, including the animation some have, for example here:
 | Title | Sample |
 | --- | --- |
 Pair Extraordinaire | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-Quickdraw | [Live 100 % unlocked sample by @ANTRUMEYE](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
+Quickdraw | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
 Starstruck | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
 Pull Shark | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
-YOLO | [Live 100 % unlocked sample by @ANTRUMEYE](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
+YOLO | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | [Live 100 % unlocked sample by @ANTRUMEYE](https://github.com/ANTRUMEYE?tab=achievements&achievement=arctic-code-vault-contributor)
+Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/ANTRUMEYE?tab=achievements&achievement=arctic-code-vault-contributor)
 Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
 Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
